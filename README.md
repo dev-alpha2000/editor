@@ -65,5 +65,7 @@ React: Frontend framework for building the UI.
 
 
 Draft.js / Slate.js / Quill.js: (Optional) Libraries for handling rich text editing.Local Storage: For autosaving the user's content.
+
 CSS or Styled Components: For styling the editor's UI.
-Contributing
+
+
